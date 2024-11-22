@@ -1,6 +1,11 @@
 Hi 👋 My name is gidam Yim
 
-<!--
+🤔About ME
+- I'm a student at Chung-Ang University, major in Art&Technology.
+- I'm interested in gamegraphics and coding.
+- 
+💬 tel.010-5593-7318
+👯****
 **dlarleka/dlarleka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
