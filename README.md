@@ -2,20 +2,19 @@ Hi 👋 My name is gidam Yim
 
 🤔About ME
 - I'm a student at Chung-Ang University, major in Art&Technology.
-- I'm interested in gamegraphics and coding.
-- 
-💬 tel.010-5593-7318
-👯****
-**dlarleka/dlarleka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm interested in game graphics and coding.
+- For me, this major was challenging, but I am gradually adapting to it.
 
-Here are some ideas to get you started:
+✏️What I've Done
+- Creating concept composite images using Photoshop and Illustrator.
+- Creating VR and AR content using OpenCV and CoSpaces.
+- Drawing flags using Python and creating a math library using C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯Goals
+- Mastering various graphic tools to create projects.
+- Acquiring skills that can be integrated with other major.
+
+👯"Let's grow together as we overcome challenges."
+
+ps.💬 tel.010-5593-7318
+
