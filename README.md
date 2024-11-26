@@ -20,5 +20,4 @@ Hi 👋 My name is gidam Yim
 
 👯"Let's grow together as we overcome challenges."
 
-ps.💬 tel.010-5593-7318
-📧[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssimon897@gmail.com)](mailto:ssimon897@gmail.com)
+ps. 📧[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ssimon897@gmail.com)](mailto:ssimon897@gmail.com)
